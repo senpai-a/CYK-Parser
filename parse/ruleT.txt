@@ -1,0 +1,3357 @@
+NNP->Pierre
+NNP->Vinken
+,->,
+CD->61
+NNS->years
+JJ->old
+,->,
+MD->will
+VB->join
+DT->the
+NN->board
+IN->as
+DT->a
+JJ->nonexecutive
+NN->director
+NNP->Nov.
+CD->29
+.->.
+NNP->Mr.
+NNP->Vinken
+VBZ->is
+NN->chairman
+IN->of
+NNP->Elsevier
+NNP->N.V.
+,->,
+DT->the
+NNP->Dutch
+VBG->publishing
+NN->group
+.->.
+NNP->South
+NNP->Korea
+NP-SBJ->NNP NNP
+VBD->registered
+DT->a
+NN->trade
+NN->deficit
+NP->DT NN NN
+IN->of
+$->$
+CD->101
+CD->million
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+PP->IN NP
+NP->NP PP
+IN->in
+NNP->October
+NP->NNP
+PP-TMP->IN NP
+,->,
+-NONE-->*
+NP-SBJ->-NONE-
+VBG->reflecting
+DT->the
+NN->country
+POS->'s
+NP->DT NN POS
+JJ->economic
+NN->sluggishness
+NP->NP JJ NN
+VP->VBG NP
+S-ADV->NP-SBJ VP
+,->,
+VBG->according
+TO->to
+NN->government
+NNS->figures
+NP->NN NNS
+VBD->released
+-NONE-->*
+NP->-NONE-
+NNP->Wednesday
+NP-TMP->NNP
+VP->VBD NP NP-TMP
+NP->NP VP
+PP->TO NP
+PP->VBG PP
+VP->VBD NP PP-TMP , S-ADV , PP
+.->.
+S->NP-SBJ VP .
+JJ->Preliminary
+NNS->tallies
+NP->JJ NNS
+IN->by
+DT->the
+NNP->Trade
+CC->and
+NNP->Industry
+NNP->Ministry
+NP->DT NNP CC NNP NNP
+PP->IN NP
+NP-SBJ->NP PP
+VBD->showed
+DT->another
+NN->trade
+NN->deficit
+NP->DT NN NN
+IN->in
+NNP->October
+NP->NNP
+PP-TMP->IN NP
+NP->NP PP-TMP
+,->,
+DT->the
+JJ->fifth
+JJ->monthly
+NN->setback
+NP->DT JJ JJ NN
+DT->this
+NN->year
+NP-TMP->DT NN
+NP->NP NP-TMP
+NP->NP , NP
+,->,
+-NONE-->*
+NP-SBJ->-NONE-
+VBG->casting
+DT->a
+NN->cloud
+NP->DT NN
+IN->on
+NNP->South
+NNP->Korea
+POS->'s
+NP->NNP NNP POS
+JJ->export-oriented
+NN->economy
+NP->NP JJ NN
+PP-CLR->IN NP
+VP->VBG NP PP-CLR
+S-ADV->NP-SBJ VP
+VP->VBD NP , S-ADV
+.->.
+S->NP-SBJ VP .
+NNS->Exports
+NP->NNS
+IN->in
+NNP->October
+NP->NNP
+PP-TMP->IN NP
+NP-SBJ->NP PP-TMP
+VBD->stood
+IN->at
+$->$
+CD->5.29
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+,->,
+DT->a
+JJ->mere
+CD->0.7
+QP->DT JJ CD
+NN->%
+ADJP->QP NN
+NN->increase
+NP->ADJP NN
+IN->from
+DT->a
+NN->year
+JJR->earlier
+NP->DT NN JJR
+PP-TMP->IN NP
+NP->NP PP-TMP
+,->,
+NP->NP , NP ,
+PP-LOC-CLR->IN NP
+IN->while
+NNS->imports
+NP-SBJ->NNS
+VBD->increased
+RB->sharply
+ADVP-MNR->RB
+TO->to
+$->$
+CD->5.39
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+,->,
+RB->up
+CD->20
+NN->%
+NP->CD NN
+IN->from
+JJ->last
+NNP->October
+NP->JJ NNP
+PP-TMP->IN NP
+ADVP->RB NP PP-TMP
+NP->NP , ADVP
+PP-DIR->TO NP
+VP->VBD ADVP-MNR PP-DIR
+S->NP-SBJ VP
+SBAR-TMP->IN S
+VP->VBD PP-LOC-CLR SBAR-TMP
+.->.
+S->NP-SBJ VP .
+NNP->South
+NNP->Korea
+POS->'s
+NP->NNP NNP POS
+JJ->economic
+NN->boom
+NP->NP JJ NN
+,->,
+WDT->which
+WHNP-12->WDT
+-NONE-->*T*-12
+NP-SBJ->-NONE-
+VBD->began
+IN->in
+CD->1986
+NP->CD
+PP-TMP->IN NP
+VP->VBD PP-TMP
+S->NP-SBJ VP
+SBAR->WHNP-12 S
+,->,
+NP-SBJ->NP , SBAR ,
+VBD->stopped
+DT->this
+NN->year
+NP-TMP->DT NN
+IN->because
+IN->of
+VBN->prolonged
+NN->labor
+NNS->disputes
+NP->VBN NN NNS
+,->,
+NN->trade
+NNS->conflicts
+NP->NN NNS
+CC->and
+JJ->sluggish
+NNS->exports
+NP->JJ NNS
+NP->NP , NP CC NP
+PP-PRP->IN IN NP
+VP->VBD NP-TMP PP-PRP
+.->.
+S->NP-SBJ VP .
+NN->Government
+NNS->officials
+NP-SBJ->NN NNS
+VBD->said
+-NONE-->0
+NNS->exports
+NP->NNS
+IN->at
+DT->the
+NN->end
+NP->DT NN
+IN->of
+DT->the
+NN->year
+NP->DT NN
+PP->IN NP
+NP->NP PP
+PP-TMP->IN NP
+NP-SBJ->NP PP-TMP
+MD->would
+VB->remain
+IN->under
+DT->a
+NN->government
+NN->target
+NP->DT NN NN
+IN->of
+$->$
+CD->68
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+PP->IN NP
+NP->NP PP
+PP-LOC->IN NP
+VP->VB PP-LOC
+VP->MD VP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->NP-SBJ VP .
+IN->Despite
+DT->the
+JJ->gloomy
+NN->forecast
+NP->DT JJ NN
+PP->IN NP
+,->,
+NNP->South
+NNP->Korea
+NP-SBJ->NNP NNP
+VBZ->has
+VBN->recorded
+DT->a
+NN->trade
+NN->surplus
+NP->DT NN NN
+IN->of
+$->$
+CD->71
+CD->million
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+PP->IN NP
+NP->NP PP
+IN->so
+IN->far
+ADVP-TMP->IN IN
+DT->this
+NN->year
+NP-TMP->DT NN
+VP->VBN NP ADVP-TMP NP-TMP
+VP->VBZ VP
+.->.
+S->PP , NP-SBJ VP .
+IN->From
+NNP->January
+NP->NNP
+PP-DIR->IN NP
+TO->to
+NNP->October
+NP->NNP
+PP-DIR->TO NP
+PP-TMP->PP-DIR PP-DIR
+,->,
+DT->the
+NN->nation
+POS->'s
+NP->DT NN POS
+VBN->accumulated
+NNS->exports
+NP-SBJ->NP VBN NNS
+VBD->increased
+CD->4
+NN->%
+NP-EXT->CD NN
+IN->from
+DT->the
+JJ->same
+NN->period
+JJ->last
+NN->year
+NP->DT JJ NN JJ NN
+PP-TMP->IN NP
+TO->to
+$->$
+CD->50.45
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+PP-DIR->TO NP
+VP->VBD NP-EXT PP-TMP PP-DIR
+.->.
+S->PP-TMP , NP-SBJ VP .
+NNS->Imports
+NP-SBJ->NNS
+VBD->were
+IN->at
+$->$
+CD->50.38
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+NP->NP
+PP-LOC-PRD->IN NP
+,->,
+RB->up
+CD->19
+NN->%
+NP->CD NN
+ADVP->RB NP
+VP->VBD PP-LOC-PRD , ADVP
+.->.
+S->NP-SBJ VP .
+NNP->Newsweek
+NP-SBJ-1->NNP
+,->,
+-NONE-->*-1
+NP-SBJ-2->-NONE-
+VBG->trying
+-NONE-->*-2
+NP-SBJ->-NONE-
+TO->to
+VB->keep
+NN->pace
+NP-CLR->NN
+IN->with
+JJ->rival
+NP->JJ
+NNP->Time
+NN->magazine
+NP->NNP NN
+NP->NP NP
+PP-CLR->IN NP
+VP->VB NP-CLR PP-CLR
+VP->TO VP
+S->NP-SBJ VP
+VP->VBG S
+S->NP-SBJ-2 VP
+,->,
+VBD->announced
+JJ->new
+NN->advertising
+NNS->rates
+NP->JJ NN NNS
+IN->for
+CD->1990
+NP->CD
+PP->IN NP
+NP->NP PP
+VP->VBD NP
+CC->and
+VBD->said
+-NONE-->0
+PRP->it
+NP-SBJ->PRP
+MD->will
+VB->introduce
+DT->a
+JJ->new
+NN->incentive
+NN->plan
+NP->DT JJ NN NN
+IN->for
+NNS->advertisers
+NP->NNS
+PP->IN NP
+NP->NP PP
+VP->VB NP
+VP->MD VP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+VP->VP CC VP
+.->.
+S->NP-SBJ-1 , S , VP .
+DT->The
+JJ->new
+NN->ad
+NN->plan
+NP->DT JJ NN NN
+IN->from
+NNP->Newsweek
+NP->NNP
+,->,
+DT->a
+NN->unit
+NP->DT NN
+IN->of
+DT->the
+NNP->Washington
+NNP->Post
+NNP->Co.
+NP->DT NNP NNP NNP
+PP->IN NP
+NP->NP PP
+,->,
+NP->NP , NP ,
+PP-DIR->IN NP
+NP-SBJ->NP PP-DIR
+VBZ->is
+DT->the
+JJ->second
+NN->incentive
+NN->plan
+NP->DT JJ NN NN
+-NONE-->0
+WHNP-1->-NONE-
+DT->the
+NN->magazine
+NP-SBJ->DT NN
+VBZ->has
+VBN->offered
+NNS->advertisers
+NP->NNS
+-NONE-->*T*-1
+NP->-NONE-
+IN->in
+CD->three
+NNS->years
+NP->CD NNS
+PP-TMP->IN NP
+VP->VBN NP NP PP-TMP
+VP->VBZ VP
+S->NP-SBJ VP
+SBAR->WHNP-1 S
+NP-PRD->NP SBAR
+VP->VBZ NP-PRD
+.->.
+S->NP-SBJ VP .
+NNS->Plans
+NP->NNS
+WDT->that
+WHNP-13->WDT
+-NONE-->*T*-13
+NP-SBJ->-NONE-
+VBP->give
+NNS->advertisers
+NP->NNS
+NNS->discounts
+NP->NNS
+IN->for
+-NONE-->*
+NP-SBJ->-NONE-
+VBG->maintaining
+CC->or
+VBG->increasing
+NN->ad
+NN->spending
+NP->NN NN
+VP->VBG CC VBG NP
+S-NOM->NP-SBJ VP
+PP->IN S-NOM
+NP->NP PP
+VP->VBP NP NP
+S->NP-SBJ VP
+SBAR->WHNP-13 S
+NP-SBJ->NP SBAR
+VBP->have
+VBN->become
+JJ->permanent
+NNS->fixtures
+NP->JJ NNS
+IN->at
+DT->the
+NN->news
+NNS->weeklies
+NP->DT NN NNS
+PP-LOC->IN NP
+NP-PRD->NP PP-LOC
+VP->VBN NP-PRD
+VP->VBP VP
+CC->and
+VBP->underscore
+DT->the
+JJ->fierce
+NN->competition
+NP->DT JJ NN
+IN->between
+NNP->Newsweek
+NP->NNP
+,->,
+NNP->Time
+NNP->Warner
+NNP->Inc.
+POS->'s
+NP->NNP NNP NNP POS
+NNP->Time
+NN->magazine
+NP->NP NNP NN
+,->,
+CC->and
+NNP->Mortimer
+NNP->B.
+NNP->Zuckerman
+POS->'s
+NP->NNP NNP NNP POS
+NNP->U.S.
+NNP->News
+CC->&
+NNP->World
+NNP->Report
+NP->NP NNP NNP CC NNP NNP
+NP->NP , NP , CC NP
+PP-LOC->IN NP
+NP->NP PP-LOC
+VP->VBP NP
+VP->VP CC VP
+.->.
+S->NP-SBJ VP .
+NNP->Alan
+NNP->Spoon
+NP->NNP NNP
+,->,
+RB->recently
+ADVP-TMP->RB
+VBN->named
+-NONE-->*
+NP-SBJ->-NONE-
+NNP->Newsweek
+NN->president
+NP-PRD->NNP NN
+S->NP-SBJ NP-PRD
+VP->VBN S
+RRC->ADVP-TMP VP
+,->,
+NP-SBJ->NP , RRC ,
+VBD->said
+-NONE-->0
+NNP->Newsweek
+POS->'s
+NP->NNP POS
+NN->ad
+NNS->rates
+NP-SBJ->NP NN NNS
+MD->would
+VB->increase
+CD->5
+NN->%
+NP-EXT->CD NN
+IN->in
+NNP->January
+NP->NNP
+PP-TMP->IN NP
+VP->VB NP-EXT PP-TMP
+VP->MD VP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->NP-SBJ VP .
+DT->A
+JJ->full
+,->,
+JJ->four-color
+NN->page
+NP->DT JJ , JJ NN
+IN->in
+NNP->Newsweek
+NP->NNP
+PP-LOC->IN NP
+NP-SBJ->NP PP-LOC
+MD->will
+VB->cost
+$->$
+CD->100,980
+-NONE-->*U*
+NP->$ CD -NONE-
+VP->VB NP
+VP->MD VP
+.->.
+S->NP-SBJ VP .
+IN->In
+NNP->mid-October
+NP->NNP
+PP-TMP->IN NP
+,->,
+NNP->Time
+NN->magazine
+NP-SBJ-1->NNP NN
+VBD->lowered
+PRP$->its
+VBN->guaranteed
+NN->circulation
+NN->rate
+NN->base
+NP->PRP$ VBN NN NN NN
+IN->for
+CD->1990
+NP->CD
+PP-TMP->IN NP
+NP->NP PP-TMP
+IN->while
+-NONE-->*-1
+NP-SBJ->-NONE-
+RB->not
+VBG->increasing
+NN->ad
+NN->page
+NNS->rates
+NP->NN NN NNS
+VP->RB VBG NP
+S->NP-SBJ VP
+SBAR-TMP->IN S
+VP->VBD NP SBAR-TMP
+S->PP-TMP , NP-SBJ-1 VP
+:->;
+IN->with
+DT->a
+JJR->lower
+NN->circulation
+NN->base
+NP->DT JJR NN NN
+PP->IN NP
+,->,
+NNP->Time
+POS->'s
+NP->NNP POS
+NN->ad
+NN->rate
+NP->NP NN NN
+-NONE-->*ICH*-2
+PP->-NONE-
+NP-SBJ->NP PP
+MD->will
+VB->be
+RB->effectively
+ADVP->RB
+CD->7.5
+NN->%
+NP-ADV->CD NN
+JJR->higher
+ADJP-PRD->NP-ADV JJR
+IN->per
+NN->subscriber
+NP->NN
+PP-2->IN NP
+VP->VB ADVP ADJP-PRD PP-2
+VP->MD VP
+S->PP , NP-SBJ VP
+:->;
+DT->a
+JJ->full
+NN->page
+NP->DT JJ NN
+IN->in
+NNP->Time
+NP->NNP
+PP-LOC->IN NP
+NP-SBJ->NP PP-LOC
+VBZ->costs
+IN->about
+$->$
+CD->120,000
+QP->IN $ CD
+-NONE-->*U*
+NP->QP -NONE-
+VP->VBZ NP
+S->NP-SBJ VP
+.->.
+S->S : S : S .
+NNP->U.S.
+NNP->News
+NP-SBJ-1->NNP NNP
+VBZ->has
+RB->yet
+ADVP-TMP->RB
+-NONE-->*-1
+NP-SBJ->-NONE-
+TO->to
+VB->announce
+PRP$->its
+CD->1990
+NN->ad
+NNS->rates
+NP->PRP$ CD NN NNS
+VP->VB NP
+VP->TO VP
+S->NP-SBJ VP
+VP->VBZ ADVP-TMP S
+.->.
+S->NP-SBJ-1 VP .
+NNP->Newsweek
+NP-SBJ->NNP
+VBD->said
+-NONE-->0
+PRP->it
+NP-SBJ->PRP
+MD->will
+VB->introduce
+DT->the
+NNP->Circulation
+NNP->Credit
+NNP->Plan
+NP->DT NNP NNP NNP
+,->,
+WDT->which
+WHNP-1->WDT
+-NONE-->*T*-1
+NP-SBJ->-NONE-
+VBZ->awards
+NN->space
+NNS->credits
+NP->NN NNS
+-NONE-->*ICH*-2
+PP->-NONE-
+NP->NP PP
+TO->to
+NNS->advertisers
+NP->NNS
+PP-DIR->TO NP
+IN->on
+``->``
+NN->renewal
+NN->advertising
+NP->NN NN
+PP-2->IN `` NP
+VP->VBZ NP PP-DIR PP-2
+S->NP-SBJ VP
+SBAR->WHNP-1 S
+NP->NP , SBAR
+VP->VB NP
+VP->MD VP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+''->''
+S->NP-SBJ VP . ''
+DT->The
+NN->magazine
+NP-SBJ->DT NN
+MD->will
+VB->reward
+IN->with
+``->``
+NN->page
+NNS->bonuses
+NP->NN NNS
+''->''
+PP-MNR->IN `` NP ''
+NNS->advertisers
+NP->NNS
+WP->who
+WHNP-1->WP
+IN->in
+CD->1990
+NP->CD
+PP-TMP->IN NP
+-NONE-->*T*-1
+NP-SBJ->-NONE-
+VBP->meet
+CC->or
+VBP->exceed
+PRP$->their
+CD->1989
+NN->spending
+NP->PRP$ CD NN
+VP->VBP CC VBP NP
+S->PP-TMP NP-SBJ VP
+SBAR->WHNP-1 S
+NP->NP SBAR
+,->,
+RB->as
+RB->long
+ADVP->RB RB
+IN->as
+PRP->they
+NP-SBJ->PRP
+VBD->spent
+$->$
+CD->325,000
+-NONE-->*U*
+NP-2->$ CD -NONE-
+IN->in
+CD->1989
+NP->CD
+PP-TMP-3->IN NP
+VP->VBD NP-2 PP-TMP-3
+CC->and
+$->$
+CD->340,000
+-NONE-->*U*
+NP=2->$ CD -NONE-
+IN->in
+CD->1990
+NP->CD
+PP-TMP=3->IN NP
+VP->NP=2 PP-TMP=3
+VP->VP CC VP
+S->NP-SBJ VP
+SBAR->IN S
+ADVP-TMP->ADVP SBAR
+VP->VB PP-MNR NP , ADVP-TMP
+VP->MD VP
+.->.
+S->NP-SBJ VP .
+NNP->Mr.
+NNP->Spoon
+NP-SBJ->NNP NNP
+VBD->said
+-NONE-->0
+DT->the
+NN->plan
+NP-SBJ->DT NN
+VBZ->is
+RB->not
+DT->an
+NN->attempt
+-NONE-->*
+NP-SBJ->-NONE-
+TO->to
+VB->shore
+RP->up
+PRT->RP
+DT->a
+NN->decline
+NP->DT NN
+IN->in
+NN->ad
+NNS->pages
+NP->NN NNS
+PP-LOC->IN NP
+IN->in
+DT->the
+JJ->first
+CD->nine
+NNS->months
+NP->DT JJ CD NNS
+IN->of
+CD->1989
+NP->CD
+PP->IN NP
+NP->NP PP
+PP-TMP->IN NP
+NP->NP PP-LOC PP-TMP
+VP->VB PRT NP
+VP->TO VP
+S->NP-SBJ VP
+NP-PRD->DT NN S
+VP->VBZ RB NP-PRD
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+S->NP-SBJ VP
+:->;
+NNP->Newsweek
+POS->'s
+NP->NNP POS
+NN->ad
+NNS->pages
+NP-SBJ->NP NN NNS
+VBD->totaled
+CD->1,620
+NP->CD
+,->,
+DT->a
+NN->drop
+NP->DT NN
+IN->of
+CD->3.2
+NN->%
+NP->CD NN
+PP->IN NP
+IN->from
+JJ->last
+NN->year
+NP->JJ NN
+PP-DIR->IN NP
+NP->NP PP PP-DIR
+NP->NP , NP
+,->,
+VBG->according
+TO->to
+NNP->Publishers
+NNP->Information
+NNP->Bureau
+NP->NNP NNP NNP
+PP->TO NP
+PP->VBG PP
+VP->VBD NP , PP
+S->NP-SBJ VP
+.->.
+S->S : S .
+``->``
+WP->What
+WHNP-14->WP
+-NONE-->*T*-14
+NP-SBJ->-NONE-
+VBZ->matters
+VP->VBZ
+S->NP-SBJ VP
+SBAR-NOM-SBJ->WHNP-14 S
+VBZ->is
+WP->what
+WHNP-15->WP
+NNS->advertisers
+NP-SBJ->NNS
+VBP->are
+VBG->paying
+-NONE-->*T*-15
+NP->-NONE-
+IN->per
+NN->page
+NP->NN
+PP->IN NP
+VP->VBG NP PP
+VP->VBP VP
+S->NP-SBJ VP
+SBAR-NOM-PRD->WHNP-15 S
+VP->VBZ SBAR-NOM-PRD
+S->SBAR-NOM-SBJ VP
+,->,
+CC->and
+IN->in
+DT->that
+NN->department
+NP->DT NN
+PP-LOC->IN NP
+PRP->we
+NP-SBJ->PRP
+VBP->are
+VBG->doing
+RB->fine
+ADVP-MNR->RB
+DT->this
+NN->fall
+NP-TMP->DT NN
+VP->VBG ADVP-MNR NP-TMP
+VP->VBP VP
+S->PP-LOC NP-SBJ VP
+S-TPC-1->S , CC S
+,->,
+''->''
+VBD->said
+-NONE-->*T*-1
+S->-NONE-
+VP->VBD S
+NNP->Mr.
+NNP->Spoon
+NP-SBJ->NNP NNP
+.->.
+SINV->`` S-TPC-1 , '' VP NP-SBJ .
+DT->Both
+NNP->Newsweek
+NP->NNP
+CC->and
+NNP->U.S.
+NNP->News
+NP->NNP NNP
+NP-SBJ->DT NP CC NP
+VBP->have
+VBN->been
+VBG->gaining
+NN->circulation
+NP->NN
+IN->in
+JJ->recent
+NNS->years
+NP->JJ NNS
+PP-TMP->IN NP
+IN->without
+JJ->heavy
+NN->use
+NP->JJ NN
+IN->of
+JJ->electronic
+NNS->giveaways
+NP->JJ NNS
+TO->to
+NNS->subscribers
+NP->NNS
+PP-DIR->TO NP
+,->,
+JJ->such
+IN->as
+NNS->telephones
+CC->or
+NNS->watches
+NP->NNS CC NNS
+PP->JJ IN NP
+NP->NP PP-DIR , PP
+PP->IN NP
+NP->NP PP
+PP-MNR->IN NP
+VP->VBG NP PP-TMP PP-MNR
+VP->VBN VP
+VP->VBP VP
+.->.
+S->NP-SBJ VP .
+RB->However
+ADVP->RB
+,->,
+NN->none
+NP->NN
+IN->of
+DT->the
+JJ->big
+CD->three
+NNS->weeklies
+NP->DT JJ CD NNS
+PP->IN NP
+NP-SBJ->NP PP
+VBD->recorded
+NN->circulation
+NNS->gains
+NP->NN NNS
+RB->recently
+ADVP-TMP->RB
+VP->VBD NP ADVP-TMP
+.->.
+S->ADVP , NP-SBJ VP .
+VBG->According
+TO->to
+NNP->Audit
+NNP->Bureau
+NP->NNP NNP
+IN->of
+NNP->Circulations
+NP->NNP
+PP->IN NP
+NP->NP PP
+PP->TO NP
+PP->VBG PP
+,->,
+NNP->Time
+NP->NNP
+,->,
+DT->the
+JJS->largest
+RB->newsweekly
+NP->DT JJS RB
+,->,
+NP-SBJ->NP , NP ,
+VBD->had
+JJ->average
+NN->circulation
+NP->JJ NN
+IN->of
+CD->4,393,237
+NP->CD
+,->,
+DT->a
+NN->decrease
+NP->DT NN
+IN->of
+CD->7.3
+NN->%
+NP->CD NN
+PP->IN NP
+NP->NP PP
+NP->NP , NP
+PP->IN NP
+NP->NP PP
+VP->VBD NP
+.->.
+S->PP , NP-SBJ VP .
+NNP->Newsweek
+POS->'s
+NP->NNP POS
+NN->circulation
+NP->NP NN
+IN->for
+DT->the
+JJ->first
+CD->six
+NNS->months
+NP->DT JJ CD NNS
+IN->of
+CD->1989
+NP->CD
+PP->IN NP
+NP->NP PP
+PP->IN NP
+NP-SBJ-1->NP PP
+VBD->was
+CD->3,288,453
+NP-PRD->CD
+,->,
+-NONE-->*-1
+NP-SBJ->-NONE-
+JJ->flat
+IN->from
+DT->the
+JJ->same
+NN->period
+JJ->last
+NN->year
+NP->DT JJ NN JJ NN
+PP-TMP->IN NP
+ADJP-PRD->JJ PP-TMP
+S-ADV->NP-SBJ ADJP-PRD
+VP->VBD NP-PRD , S-ADV
+.->.
+S->NP-SBJ-1 VP .
+NNP->U.S.
+NNP->News
+POS->'
+NP->NNP NNP POS
+NN->circulation
+NP->NP NN
+IN->in
+DT->the
+JJ->same
+NN->time
+NP->DT JJ NN
+PP-TMP->IN NP
+NP-SBJ->NP PP-TMP
+VBD->was
+CD->2,303,328
+NP-PRD->CD
+,->,
+RB->down
+CD->2.6
+NN->%
+NP->CD NN
+ADVP->RB NP
+VP->VBD NP-PRD , ADVP
+.->.
+S->NP-SBJ VP .
+NNP->New
+NNP->England
+NNP->Electric
+NNP->System
+NP-SBJ-1->NNP NNP NNP NNP
+VBD->bowed
+IN->out
+ADVP-DIR-CLR->IN
+IN->of
+DT->the
+NN->bidding
+NP->DT NN
+IN->for
+NNP->Public
+NNP->Service
+NNP->Co.
+NP->NNP NNP NNP
+IN->of
+NNP->New
+NNP->Hampshire
+NP->NNP NNP
+PP->IN NP
+NP->NP PP
+PP->IN NP
+NP->NP PP
+PP-CLR->IN NP
+,->,
+-NONE-->*-1
+NP-SBJ->-NONE-
+VBG->saying
+IN->that
+DT->the
+NNS->risks
+NP-SBJ-2->DT NNS
+VBD->were
+RB->too
+JJ->high
+-NONE-->*RNR*-4
+S->-NONE-
+ADJP-PRD-3->RB JJ S
+VP->VBD ADJP-PRD-3
+S->NP-SBJ-2 VP
+CC->and
+DT->the
+JJ->potential
+NN->payoff
+NP-SBJ=2->DT JJ NN
+RB->too
+RB->far
+IN->in
+DT->the
+NN->future
+NP->DT NN
+PP-LOC->IN NP
+-NONE-->*RNR*-4
+S->-NONE-
+ADVP-PRD-LOC=3->RB RB PP-LOC S
+S->NP-SBJ=2 ADVP-PRD-LOC=3
+-NONE-->*
+NP-SBJ->-NONE-
+TO->to
+VB->justify
+DT->a
+JJR->higher
+NN->offer
+NP->DT JJR NN
+VP->VB NP
+VP->TO VP
+S-4->NP-SBJ VP
+S->S CC S S-4
+SBAR->IN S
+VP->VBG SBAR
+S-ADV->NP-SBJ VP
+VP->VBD ADVP-DIR-CLR PP-CLR , S-ADV
+.->.
+S->NP-SBJ-1 VP .
+DT->The
+NN->move
+NP-SBJ->DT NN
+VBZ->leaves
+NNP->United
+NNP->Illuminating
+NNP->Co.
+NP->NNP NNP NNP
+CC->and
+NNP->Northeast
+NNP->Utilities
+NP->NNP NNP
+NP->NP CC NP
+IN->as
+DT->the
+VBG->remaining
+JJ->outside
+NNS->bidders
+NP->DT VBG JJ NNS
+IN->for
+NNP->PS
+NP->NNP
+IN->of
+NNP->New
+NNP->Hampshire
+NP->NNP NNP
+PP->IN NP
+NP->NP PP
+,->,
+WDT->which
+WHNP-1->WDT
+-NONE-->*T*-1
+NP-SBJ->-NONE-
+RB->also
+ADVP->RB
+VBZ->has
+VBN->proposed
+DT->an
+JJ->internal
+NN->reorganization
+NN->plan
+NP->DT JJ NN NN
+IN->in
+NN->Chapter
+CD->11
+NN->bankruptcy
+NNS->proceedings
+NP->NN CD NN NNS
+PP-LOC->IN NP
+IN->under
+WDT->which
+WHNP->WDT
+WHPP-2->IN WHNP
+PRP->it
+NP-SBJ->PRP
+MD->would
+VB->remain
+DT->an
+JJ->independent
+NN->company
+NP-PRD->DT JJ NN
+-NONE-->*T*-2
+PP-LOC->-NONE-
+VP->VB NP-PRD PP-LOC
+VP->MD VP
+S->NP-SBJ VP
+SBAR->WHPP-2 S
+NP->NP PP-LOC SBAR
+VP->VBN NP
+VP->VBZ VP
+S->NP-SBJ ADVP VP
+SBAR->WHNP-1 S
+NP->NP , SBAR
+PP->IN NP
+NP->NP PP
+PP-CLR->IN NP
+VP->VBZ NP PP-CLR
+.->.
+S->NP-SBJ VP .
+NNP->New
+NNP->England
+NNP->Electric
+NP->NNP NNP NNP
+,->,
+VBN->based
+-NONE-->*
+NP->-NONE-
+IN->in
+NNP->Westborough
+NP->NNP
+,->,
+NNP->Mass.
+NP->NNP
+NP->NP , NP
+PP-LOC-CLR->IN NP
+VP->VBN NP PP-LOC-CLR
+,->,
+NP-SBJ-4->NP , VP ,
+VBD->had
+VBN->offered
+$->$
+CD->2
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+-NONE-->*ICH*-1
+PP->-NONE-
+NP->NP PP
+-NONE-->*-4
+NP-SBJ->-NONE-
+TO->to
+VB->acquire
+NNP->PS
+NP->NNP
+IN->of
+NNP->New
+NNP->Hampshire
+NP->NNP NNP
+PP->IN NP
+NP->NP PP
+VP->VB NP
+VP->TO VP
+S-PRP->NP-SBJ VP
+,->,
+RB->well
+ADVP->RB
+IN->below
+DT->the
+$->$
+CD->2.29
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+ADJP->QP -NONE-
+NN->value
+NP->DT ADJP NN
+-NONE-->0
+WHNP-2->-NONE-
+NNP->United
+NNP->Illuminating
+NP-SBJ->NNP NNP
+NNS->places
+-NONE-->*T*-2
+NP->-NONE-
+IN->on
+PRP$->its
+NN->bid
+NP->PRP$ NN
+PP-DIR->IN NP
+VP->NNS NP PP-DIR
+S->NP-SBJ VP
+SBAR->WHNP-2 S
+NP->NP SBAR
+CC->and
+DT->the
+$->$
+CD->2.25
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+NP->DT QP -NONE-
+-NONE-->0
+WHNP-3->-NONE-
+NNP->Northeast
+NP-SBJ->NNP
+VBZ->says
+-NONE-->0
+PRP$->its
+NN->bid
+NP-SBJ->PRP$ NN
+VBZ->is
+IN->worth
+-NONE-->*T*-3
+NP->-NONE-
+ADJP-PRD->IN NP
+VP->VBZ ADJP-PRD
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBZ SBAR
+S->NP-SBJ VP
+SBAR->WHNP-3 S
+NP->NP SBAR
+NP->NP CC NP
+PP-1->ADVP IN NP
+VP->VBN NP S-PRP , PP-1
+VP->VBD VP
+.->.
+S->NP-SBJ-4 VP .
+NNP->United
+NNP->Illuminating
+NP-SBJ-13->NNP NNP
+VBZ->is
+VBN->based
+-NONE-->*-13
+NP->-NONE-
+IN->in
+NNP->New
+NNP->Haven
+NP->NNP NNP
+,->,
+NNP->Conn.
+NP->NNP
+,->,
+NP->NP , NP ,
+PP-LOC->IN NP
+VP->VBN NP PP-LOC
+VP->VBZ VP
+S->NP-SBJ-13 VP
+CC->and
+NNP->Northeast
+NP-SBJ-14->NNP
+VBZ->is
+VBN->based
+-NONE-->*-14
+NP->-NONE-
+IN->in
+NNP->Hartford
+NP->NNP
+,->,
+NNP->Conn
+NP->NNP
+NP->NP , NP
+PP-LOC->IN NP
+VP->VBN NP PP-LOC
+VP->VBZ VP
+S->NP-SBJ-14 VP
+.->.
+S->S CC S .
+NNP->PS
+NP->NNP
+IN->of
+NNP->New
+NNP->Hampshire
+NP->NNP NNP
+PP->IN NP
+NP->NP PP
+,->,
+NNP->Manchester
+NP->NNP
+,->,
+NNP->N.H.
+NP->NNP
+NP-LOC->NP , NP
+,->,
+NP-SBJ->NP , NP-LOC ,
+VBZ->values
+PRP$->its
+JJ->internal
+NN->reorganization
+NN->plan
+NP->PRP$ JJ NN NN
+IN->at
+IN->about
+$->$
+CD->2.2
+CD->billion
+QP->IN $ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+PP-CLR->IN NP
+VP->VBZ NP PP-CLR
+.->.
+S->NP-SBJ VP .
+NNP->John
+NNP->Rowe
+NP->NNP NNP
+,->,
+NN->president
+NP->NN
+-NONE-->*RNR*-1
+PP->-NONE-
+NP->NP PP
+CC->and
+JJ->chief
+JJ->executive
+NN->officer
+NP->JJ JJ NN
+-NONE-->*RNR*-1
+PP->-NONE-
+NP->NP PP
+IN->of
+NNP->New
+NNP->England
+NNP->Electric
+NP->NNP NNP NNP
+PP-1->IN NP
+NP->NP CC NP PP-1
+,->,
+NP-SBJ->NP , NP ,
+VBD->said
+-NONE-->0
+DT->the
+NN->company
+POS->'s
+NP->DT NN POS
+NN->return
+NP->NP NN
+IN->on
+NN->equity
+NP->NN
+PP->IN NP
+NP-SBJ->NP PP
+MD->could
+VB->suffer
+IN->if
+PRP->it
+NP-SBJ->PRP
+VBD->made
+DT->a
+JJR->higher
+NN->bid
+NP->DT JJR NN
+VP->VBD NP
+S->NP-SBJ VP
+CC->and
+PRP$->its
+NNS->forecasts
+NP->PRP$ NNS
+VBN->related
+-NONE-->*
+NP->-NONE-
+TO->to
+NNP->PS
+NP->NNP
+IN->of
+NNP->New
+NNP->Hampshire
+NP->NNP NNP
+PP->IN NP
+NP->NP PP
+PP-CLR->TO NP
+VP->VBN NP PP-CLR
+:->--
+JJ->such
+IN->as
+NN->growth
+NP->NN
+IN->in
+NN->electricity
+NN->demand
+NP->NN NN
+PP-LOC->IN NP
+NP->NP PP-LOC
+CC->and
+VBN->improved
+NN->operating
+NNS->efficiencies
+NP->VBN NN NNS
+NP->NP CC NP
+PP->JJ IN NP
+:->--
+PRN->: PP :
+NP-SBJ->NP VP PRN
+VBD->did
+RB->n't
+VB->come
+JJ->true
+ADJP-PRD->JJ
+VP->VB ADJP-PRD
+VP->VBD RB VP
+S->NP-SBJ VP
+S->S CC S
+SBAR-ADV->IN S
+VP->VB SBAR-ADV
+VP->MD VP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->NP-SBJ VP .
+``->``
+WRB->When
+WHADVP-1->WRB
+PRP->we
+NP-SBJ-2->PRP
+VBD->evaluated
+-NONE-->*-2
+NP-SBJ->-NONE-
+VBG->raising
+PRP$->our
+NN->bid
+NP->PRP$ NN
+VP->VBG NP
+S->NP-SBJ VP
+-NONE-->*T*-1
+ADVP-TMP->-NONE-
+VP->VBD S ADVP-TMP
+S->NP-SBJ-2 VP
+SBAR-TMP->WHADVP-1 S
+,->,
+DT->the
+NNS->risks
+NP-SBJ->DT NNS
+VBD->seemed
+JJ->substantial
+CC->and
+JJ->persistent
+ADJP-PRD->JJ CC JJ
+IN->over
+DT->the
+JJ->next
+CD->five
+NNS->years
+NP->DT JJ CD NNS
+PP-TMP->IN NP
+VP->VBD ADJP-PRD PP-TMP
+S->NP-SBJ VP
+,->,
+CC->and
+DT->the
+NNS->rewards
+NP-SBJ->DT NNS
+VBD->seemed
+DT->a
+JJ->long
+NN->way
+NP->DT JJ NN
+IN->out
+ADVP-LOC-PRD->NP IN
+VP->VBD ADVP-LOC-PRD
+S->NP-SBJ VP
+.->.
+S->`` SBAR-TMP , S , CC S .
+WDT->That
+NP-SBJ->WDT
+VBD->got
+RB->hard
+-NONE-->0
+WHNP-1->-NONE-
+-NONE-->*
+NP-SBJ->-NONE-
+TO->to
+VB->take
+-NONE-->*T*-1
+NP->-NONE-
+VP->VB NP
+VP->TO VP
+S->NP-SBJ VP
+SBAR->WHNP-1 S
+ADJP-PRD->RB SBAR
+VP->VBD ADJP-PRD
+S-TPC-2->NP-SBJ VP
+,->,
+''->''
+PRP->he
+NP-SBJ->PRP
+VBD->added
+-NONE-->*T*-2
+S->-NONE-
+VP->VBD S
+.->.
+S->S-TPC-2 , '' NP-SBJ VP .
+NNP->Mr.
+NNP->Rowe
+NP-SBJ->NNP NNP
+RB->also
+ADVP->RB
+VBD->noted
+IN->that
+JJ->political
+NNS->concerns
+NP-SBJ->JJ NNS
+RB->also
+ADVP->RB
+VBN->worried
+NNP->New
+NNP->England
+NNP->Electric
+NP->NNP NNP NNP
+VP->VBN NP
+S->NP-SBJ ADVP VP
+SBAR->IN S
+VP->VBD SBAR
+.->.
+S->NP-SBJ ADVP VP .
+DT->No
+NN->matter
+WP->who
+WHNP-16->WP
+-NONE-->*T*-16
+NP-SBJ->-NONE-
+VBZ->owns
+NNP->PS
+NP->NNP
+IN->of
+NNP->New
+NNP->Hampshire
+NP->NNP NNP
+PP->IN NP
+NP->NP PP
+VP->VBZ NP
+S->NP-SBJ VP
+SBAR-NOM->WHNP-16 S
+ADVP->DT NN SBAR-NOM
+,->,
+IN->after
+PRP->it
+NP-SBJ->PRP
+VBZ->emerges
+IN->from
+NN->bankruptcy
+NNS->proceedings
+NP->NN NNS
+PP-DIR->IN NP
+VP->VBZ PP-DIR
+S->NP-SBJ VP
+SBAR-TMP->IN S
+PRP$->its
+NNS->rates
+NP-SBJ->PRP$ NNS
+MD->will
+VB->be
+IN->among
+DT->the
+JJS->highest
+NP->DT JJS
+IN->in
+DT->the
+NN->nation
+NP->DT NN
+PP-LOC->IN NP
+NP->NP PP-LOC
+PP-LOC-PRD->IN NP
+VP->VB PP-LOC-PRD
+VP->MD VP
+S-TPC-1->ADVP , SBAR-TMP NP-SBJ VP
+,->,
+PRP->he
+NP-SBJ->PRP
+VBD->said
+-NONE-->0
+-NONE-->*T*-1
+S->-NONE-
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->S-TPC-1 , NP-SBJ VP .
+``->``
+DT->That
+NP-SBJ->DT
+VBZ->attracts
+NN->attention
+NP->NN
+VP->VBZ NP
+:->...
+S->`` NP-SBJ VP :
+PRP->it
+NP-SBJ->PRP
+VBD->was
+RB->just
+DT->another
+CD->one
+NP->RB DT CD
+IN->of
+DT->the
+NN->risk
+NNS->factors
+NP->DT NN NNS
+''->''
+WDT->that
+WHNP-17->WDT
+-NONE-->*T*-17
+NP-SBJ->-NONE-
+VBD->led
+TO->to
+DT->the
+NN->company
+POS->'s
+NP->DT NN POS
+NN->decision
+-NONE-->*
+NP-SBJ->-NONE-
+TO->to
+VB->withdraw
+IN->from
+DT->the
+NN->bidding
+NP->DT NN
+PP-DIR-CLR->IN NP
+VP->VB PP-DIR-CLR
+VP->TO VP
+S->NP-SBJ VP
+NP->NP NN S
+PP-DIR-CLR->TO NP
+VP->VBD PP-DIR-CLR
+S->NP-SBJ VP
+SBAR->WHNP-17 S
+NP->NP '' SBAR
+PP->IN NP
+NP-PRD->NP PP
+VP->VBD NP-PRD
+S-1->NP-SBJ VP
+,->,
+PRP->he
+NP-SBJ->PRP
+VBD->added
+-NONE-->0
+-NONE-->*T*-1
+S->-NONE-
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->S-1 , NP-SBJ VP .
+NNP->Wilbur
+NNP->Ross
+NNP->Jr.
+NP->NNP NNP NNP
+IN->of
+NNP->Rothschild
+NNP->Inc.
+NP->NNP NNP
+,->,
+DT->the
+JJ->financial
+NN->adviser
+NP->DT JJ NN
+TO->to
+DT->the
+JJ->troubled
+NN->company
+POS->'s
+NP->DT JJ NN POS
+NN->equity
+NNS->holders
+NP->NP NN NNS
+PP->TO NP
+NP->NP PP
+NP->NP , NP
+PP->IN NP
+NP-SBJ->NP PP
+,->,
+VBD->said
+-NONE-->0
+DT->the
+NN->withdrawal
+NP->DT NN
+IN->of
+NNP->New
+NNP->England
+NNP->Electric
+NP->NNP NNP NNP
+PP->IN NP
+NP-SBJ->NP PP
+MD->might
+VB->speed
+RP->up
+PRT->RP
+DT->the
+NN->reorganization
+NN->process
+NP->DT NN NN
+VP->VB PRT NP
+VP->MD VP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->NP-SBJ , VP .
+DT->The
+NN->fact
+IN->that
+NNP->New
+NNP->England
+NP-SBJ->NNP NNP
+VBD->proposed
+JJR->lower
+NN->rate
+NNS->increases
+NP->JJR NN NNS
+:->--
+CD->4.8
+NN->%
+-NONE-->*U*
+NP->CD NN -NONE-
+IN->over
+CD->seven
+NNS->years
+NP->CD NNS
+PP-TMP->IN NP
+NP->NP PP-TMP
+IN->against
+IN->around
+CD->5.5
+QP->IN CD
+NN->%
+ADJP->QP NN
+NNS->boosts
+NP->ADJP NNS
+VBN->proposed
+-NONE-->*
+NP->-NONE-
+IN->by
+DT->the
+JJ->other
+CD->two
+JJ->outside
+NNS->bidders
+NP-LGS->DT JJ CD JJ NNS
+PP->IN NP-LGS
+VP->VBN NP PP
+NP->NP VP
+PP-DIR->IN NP
+:->--
+PRN->: NP PP-DIR :
+NP->NP PRN
+VP->VBD NP
+S->NP-SBJ VP
+SBAR->IN S
+NP-SBJ->DT NN SBAR
+IN->complicated
+NNS->negotiations
+NP->NNS
+IN->with
+NN->state
+NNS->officials
+NP->NN NNS
+PP->IN NP
+NP->NP PP
+VP->IN NP
+S-TPC-1->NP-SBJ VP
+,->,
+NNP->Mr.
+NNP->Ross
+NP-SBJ->NNP NNP
+VBD->asserted
+-NONE-->0
+-NONE-->*T*-1
+S->-NONE-
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->S-TPC-1 , NP-SBJ VP .
+``->``
+RB->Now
+ADVP-TMP->RB
+DT->the
+NN->field
+NP-SBJ->DT NN
+VBZ->is
+RBR->less
+VBN->cluttered
+ADJP-PRD->RBR VBN
+VP->VBZ ADJP-PRD
+S-TPC-1->ADVP-TMP NP-SBJ VP
+,->,
+''->''
+PRP->he
+NP-SBJ->PRP
+VBD->added
+-NONE-->*T*-1
+S->-NONE-
+VP->VBD S
+.->.
+S->`` S-TPC-1 , '' NP-SBJ VP .
+RB->Separately
+ADVP->RB
+,->,
+DT->the
+NNP->Federal
+NNP->Energy
+NNP->Regulatory
+NNP->Commission
+NP-SBJ->DT NNP NNP NNP NNP
+VBD->turned
+RP->down
+PRT->RP
+IN->for
+RB->now
+NP->RB
+PP-TMP->IN NP
+DT->a
+NN->request
+NP->DT NN
+IN->by
+NNP->Northeast
+NP->NNP
+PP->IN NP
+VBG->seeking
+NN->approval
+NP->NN
+IN->of
+PRP$->its
+JJ->possible
+NN->purchase
+NP->PRP$ JJ NN
+IN->of
+NNP->PS
+NP->NNP
+IN->of
+NNP->New
+NNP->Hampshire
+NP->NNP NNP
+PP->IN NP
+NP->NP PP
+PP->IN NP
+NP->NP PP
+PP->IN NP
+NP->NP PP
+VP->VBG NP
+NP->NP PP VP
+VP->VBD PRT PP-TMP NP
+.->.
+S->ADVP , NP-SBJ VP .
+NNP->Northeast
+NP-SBJ->NNP
+VBD->said
+-NONE-->0
+PRP->it
+NP-SBJ->PRP
+MD->would
+VB->refile
+PRP$->its
+NN->request
+NP->PRP$ NN
+VP->VB NP
+VP->MD VP
+CC->and
+RB->still
+ADVP-TMP->RB
+VBZ->hopes
+IN->for
+DT->an
+VBN->expedited
+NN->review
+NP->DT VBN NN
+IN->by
+DT->the
+NNP->FERC
+NP->DT NNP
+PP->IN NP
+NP->NP PP
+PP-CLR->IN NP
+VP->ADVP-TMP VBZ PP-CLR
+IN->so
+IN->that
+PRP->it
+NP-SBJ->PRP
+MD->could
+VB->complete
+DT->the
+NN->purchase
+NP->DT NN
+IN->by
+JJ->next
+NN->summer
+NP->JJ NN
+PP-TMP->IN NP
+IN->if
+PRP$->its
+NN->bid
+NP-SBJ->PRP$ NN
+VBZ->is
+DT->the
+NN->one
+NP->DT NN
+VBD->approved
+-NONE-->*
+NP->-NONE-
+IN->by
+DT->the
+NN->bankruptcy
+NN->court
+NP-LGS->DT NN NN
+PP->IN NP-LGS
+VP->VBD NP PP
+NP-PRD->NP VP
+VP->VBZ NP-PRD
+S->NP-SBJ VP
+SBAR-ADV->IN S
+VP->VB NP PP-TMP SBAR-ADV
+VP->MD VP
+S->NP-SBJ VP
+SBAR-PRP->IN IN S
+VP->VP CC VP SBAR-PRP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->NP-SBJ VP .
+NNP->PS
+IN->of
+NNP->New
+NNP->Hampshire
+NP->NNP NNP
+PP->IN NP
+NAC->NNP PP
+NNS->shares
+NP-SBJ->NAC NNS
+VBD->closed
+NN->yesterday
+NP-TMP->NN
+IN->at
+$->$
+CD->3.75
+-NONE-->*U*
+NP->$ CD -NONE-
+,->,
+IN->off
+CD->25
+NNS->cents
+NP->CD NNS
+PP-DIR->IN NP
+,->,
+NP->NP , PP-DIR ,
+PP-CLR->IN NP
+IN->in
+NNP->New
+NNP->York
+NNP->Stock
+NNP->Exchange
+JJ->composite
+NN->trading
+NP->NNP NNP NNP NNP JJ NN
+PP-LOC->IN NP
+VP->VBD NP-TMP PP-CLR PP-LOC
+.->.
+S->NP-SBJ VP .
+NNP->Norman
+NNP->Ricken
+NP->NNP NNP
+,->,
+CD->52
+NNS->years
+NP->CD NNS
+JJ->old
+ADJP->NP JJ
+CC->and
+JJ->former
+NN->president
+NX->NN
+CC->and
+NN->chief
+VBG->operating
+NN->officer
+NX->NN VBG NN
+NX->NX CC NX
+NP->JJ NX
+IN->of
+NNPS->Toys
+``->``
+NNP->R
+''->''
+NNP->Us
+NNP->Inc.
+NP->NNPS `` NNP '' NNP NNP
+PP->IN NP
+NP->NP PP
+UCP->ADJP CC NP
+NP->NP , UCP
+,->,
+CC->and
+NNP->Frederick
+NNP->Deane
+NNP->Jr.
+NP->NNP NNP NNP
+,->,
+CD->63
+NP->CD
+,->,
+NN->chairman
+NP->NN
+IN->of
+NNP->Signet
+NNP->Banking
+NNP->Corp.
+NP->NNP NNP NNP
+PP->IN NP
+NP->NP PP
+NP->NP , NP , NP
+,->,
+NP-SBJ-15->NP , CC NP ,
+VBD->were
+VBN->elected
+-NONE-->*-15
+NP-SBJ->-NONE-
+NNS->directors
+NP->NNS
+IN->of
+DT->this
+NN->consumer
+NNS->electronics
+CC->and
+NNS->appliances
+NN->retailing
+NN->chain
+NP->DT NN NNS CC NNS NN NN
+PP->IN NP
+NP-PRD->NP PP
+S->NP-SBJ NP-PRD
+VP->VBN S
+VP->VBD VP
+.->.
+S->NP-SBJ-15 VP .
+PRP->They
+NP-SBJ->PRP
+VBP->succeed
+NNP->Daniel
+NNP->M.
+NNP->Rexinger
+NP->NNP NNP NNP
+,->,
+VBN->retired
+NNP->Circuit
+NNP->City
+JJ->executive
+NN->vice
+NN->president
+NP->VBN NNP NNP JJ NN NN
+NP->NP , NP
+,->,
+CC->and
+NNP->Robert
+NNP->R.
+NNP->Glauber
+NP->NNP NNP NNP
+,->,
+NNP->U.S.
+NNP->Treasury
+NN->undersecretary
+NP->NNP NNP NN
+NP->NP , NP
+,->,
+NP->NP , CC NP ,
+IN->on
+DT->the
+JJ->12-member
+NN->board
+NP->DT JJ NN
+PP-LOC->IN NP
+VP->VBP NP PP-LOC
+.->.
+S->NP-SBJ VP .
+NNP->Commonwealth
+NNP->Edison
+NNP->Co.
+NP-SBJ-1->NNP NNP NNP
+VBD->was
+VBN->ordered
+-NONE-->*-1
+NP-2->-NONE-
+-NONE-->*-2
+NP-SBJ->-NONE-
+TO->to
+VB->refund
+IN->about
+$->$
+CD->250
+CD->million
+QP->IN $ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+TO->to
+PRP$->its
+JJ->current
+CC->and
+JJ->former
+NNS->ratepayers
+NP->PRP$ JJ CC JJ NNS
+PP-DIR-CLR->TO NP
+IN->for
+JJ->illegal
+NNS->rates
+NP->JJ NNS
+VBN->collected
+-NONE-->*
+NP->-NONE-
+IN->for
+NN->cost
+NNS->overruns
+NP->NN NNS
+IN->on
+DT->a
+JJ->nuclear
+NN->power
+NN->plant
+NP->DT JJ NN NN
+PP->IN NP
+NP->NP PP
+PP-PRP->IN NP
+VP->VBN NP PP-PRP
+NP->NP VP
+PP-PRP->IN NP
+VP->VB NP PP-DIR-CLR PP-PRP
+VP->TO VP
+S->NP-SBJ VP
+VP->VBN NP-2 S
+VP->VBD VP
+.->.
+S->NP-SBJ-1 VP .
+DT->The
+NN->refund
+NP-SBJ->DT NN
+VBD->was
+IN->about
+$->$
+CD->55
+CD->million
+QP->IN $ CD CD
+-NONE-->*U*
+NP-ADV->QP -NONE-
+JJR->more
+ADJP->NP-ADV JJR
+IN->than
+-NONE-->*
+NP-SBJ-1->-NONE-
+RB->previously
+ADVP-TMP->RB
+VBN->ordered
+-NONE-->*-1
+NP->-NONE-
+IN->by
+DT->the
+NNP->Illinois
+NNP->Commerce
+NNP->Commission
+NP-LGS->DT NNP NNP NNP
+PP->IN NP-LGS
+VP->VBN NP PP
+S->NP-SBJ-1 ADVP-TMP VP
+SBAR->IN S
+ADJP-PRD->ADJP SBAR
+VP->VBD ADJP-PRD
+S->NP-SBJ VP
+CC->and
+NN->trade
+NNS->groups
+NP-SBJ->NN NNS
+VBD->said
+-NONE-->0
+PRP->it
+NP-SBJ->PRP
+MD->may
+VB->be
+DT->the
+JJS->largest
+NP->DT JJS
+RB->ever
+ADVP-TMP->RB
+VBN->required
+-NONE-->*
+NP->-NONE-
+IN->of
+DT->a
+NN->state
+CC->or
+JJ->local
+UCP->NN CC JJ
+NN->utility
+NP->DT UCP NN
+PP-CLR->IN NP
+VP->ADVP-TMP VBN NP PP-CLR
+NP-PRD->NP VP
+VP->VB NP-PRD
+VP->MD VP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+S->NP-SBJ VP
+.->.
+S->S CC S .
+NN->State
+NN->court
+NNP->Judge
+NNP->Richard
+NNP->Curry
+NP-SBJ->NN NN NNP NNP NNP
+VBD->ordered
+NNP->Edison
+NP-1->NNP
+-NONE-->*-1
+NP-SBJ->-NONE-
+TO->to
+VB->make
+JJ->average
+NNS->refunds
+NP->JJ NNS
+IN->of
+IN->about
+$->$
+CD->45
+TO->to
+$->$
+CD->50
+QP->IN $ CD TO $ CD
+-NONE-->*U*
+NP->QP -NONE-
+DT->each
+ADVP->DT
+NP->NP ADVP
+PP->IN NP
+NP->NP PP
+TO->to
+NNP->Edison
+NNS->customers
+NP->NNP NNS
+WP->who
+WHNP-18->WP
+-NONE-->*T*-18
+NP-SBJ->-NONE-
+VBP->have
+VBN->received
+JJ->electric
+NN->service
+NP->JJ NN
+IN->since
+NNP->April
+CD->1986
+NP->NNP CD
+PP-TMP->IN NP
+VP->VBN NP PP-TMP
+VP->VBP VP
+S->NP-SBJ VP
+SBAR->WHNP-18 S
+,->,
+VBG->including
+IN->about
+CD->two
+CD->million
+QP->IN CD CD
+NNS->customers
+NP->QP NNS
+WP->who
+WHNP-19->WP
+-NONE-->*T*-19
+NP-SBJ->-NONE-
+VBP->have
+VBN->moved
+IN->during
+DT->that
+NN->period
+NP->DT NN
+PP-TMP->IN NP
+VP->VBN PP-TMP
+VP->VBP VP
+S->NP-SBJ VP
+SBAR->WHNP-19 S
+NP->NP SBAR
+PP->VBG NP
+NP->NP SBAR , PP
+PP-DIR->TO NP
+VP->VB NP PP-DIR
+VP->TO VP
+S->NP-SBJ VP
+VP->VBD NP-1 S
+.->.
+S->NP-SBJ VP .
+NNP->Judge
+NNP->Curry
+NP-SBJ->NNP NNP
+VBD->ordered
+DT->the
+NNS->refunds
+NP-1->DT NNS
+-NONE-->*-1
+NP-SBJ->-NONE-
+TO->to
+VB->begin
+NNP->Feb.
+CD->1
+NP-TMP->NNP CD
+VP->VB NP-TMP
+VP->TO VP
+S->NP-SBJ VP
+VP->VBD NP-1 S
+CC->and
+VBD->said
+IN->that
+PRP->he
+NP-SBJ->PRP
+MD->would
+RB->n't
+VB->entertain
+DT->any
+NNS->appeals
+NP->DT NNS
+CC->or
+JJ->other
+NNS->attempts
+-NONE-->*
+NP-SBJ->-NONE-
+TO->to
+VB->block
+PRP$->his
+NN->order
+NP->PRP$ NN
+VP->VB NP
+VP->TO VP
+S->NP-SBJ VP
+NP->JJ NNS S
+IN->by
+NNP->Commonwealth
+NNP->Edison
+NP->NNP NNP
+PP->IN NP
+NP->NP PP
+NP->NP CC NP
+VP->VB NP
+VP->MD RB VP
+S->NP-SBJ VP
+SBAR->IN S
+VP->VBD SBAR
+VP->VP CC VP
+.->.
+S->NP-SBJ VP .
+``->``
+DT->The
+NN->refund
+NN->pool
+NP-SBJ-1->DT NN NN
+:->...
+MD->may
+RB->not
+VB->be
+VBN->held
+-NONE-->*-1
+NP-SBJ->-NONE-
+NN->hostage
+NP-PRD->NN
+S->NP-SBJ NP-PRD
+IN->through
+DT->another
+NN->round
+NP->DT NN
+IN->of
+NNS->appeals
+NP->NNS
+PP->IN NP
+NP->NP PP
+PP-TMP->IN NP
+VP->VBN S PP-TMP
+VP->VB VP
+VP->MD RB VP
+S-TPC-2->NP-SBJ-1 : VP
+,->,
+''->''
+NNP->Judge
+NNP->Curry
+NP-SBJ->NNP NNP
+VBD->said
+-NONE-->*T*-2
+S->-NONE-
+VP->VBD S
+.->.
+S->`` S-TPC-2 , '' NP-SBJ VP .
+NNP->Commonwealth
+NNP->Edison
+NP-SBJ->NNP NNP
+VBD->said
+-NONE-->0
+PRP->it
+NP-SBJ-1->PRP
+VBZ->is
+RB->already
+ADVP-TMP->RB
+VBG->appealing
+DT->the
+VBG->underlying
+NN->commission
+NN->order
+NP->DT VBG NN NN
+VP->VBG NP
+VP->VBZ ADVP-TMP VP
+CC->and
+VBZ->is
+VBG->considering
+-NONE-->*-1
+NP-SBJ->-NONE-
+VBG->appealing
+NNP->Judge
+NNP->Curry
+POS->'s
+NP->NNP NNP POS
+NN->order
+NP->NP NN
+VP->VBG NP
+S->NP-SBJ VP
+VP->VBG S
+VP->VBZ VP
+VP->VP CC VP
+S->NP-SBJ-1 VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->NP-SBJ VP .
+DT->The
+JJ->exact
+NN->amount
+NP->DT JJ NN
+IN->of
+DT->the
+NN->refund
+NP->DT NN
+PP->IN NP
+NP-SBJ-16->NP PP
+MD->will
+VB->be
+VBN->determined
+-NONE-->*-16
+NP->-NONE-
+JJ->next
+NN->year
+NP-TMP->JJ NN
+VBN->based
+IN->on
+JJ->actual
+NNS->collections
+NP->JJ NNS
+VBN->made
+-NONE-->*
+NP->-NONE-
+IN->until
+NNP->Dec.
+CD->31
+NP->NNP CD
+IN->of
+DT->this
+NN->year
+NP->DT NN
+PP->IN NP
+NP->NP PP
+PP-TMP->IN NP
+VP->VBN NP PP-TMP
+NP->NP VP
+PP->IN NP
+PP->VBN PP
+VP->VBN NP NP-TMP PP
+VP->VB VP
+VP->MD VP
+.->.
+S->NP-SBJ-16 VP .
+NNP->Commonwealth
+NNP->Edison
+NP-SBJ->NNP NNP
+VBD->said
+-NONE-->0
+DT->the
+NN->ruling
+NP-SBJ->DT NN
+MD->could
+VB->force
+PRP->it
+NP-SBJ->PRP
+TO->to
+VB->slash
+PRP$->its
+CD->1989
+NNS->earnings
+NP->PRP$ CD NNS
+IN->by
+$->$
+CD->1.55
+-NONE-->*U*
+NP->$ CD -NONE-
+DT->a
+NN->share
+NP-ADV->DT NN
+NP->NP NP-ADV
+PP-EXT->IN NP
+VP->VB NP PP-EXT
+VP->TO VP
+S->NP-SBJ VP
+VP->VB S
+VP->MD VP
+S->NP-SBJ VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->NP-SBJ VP .
+IN->For
+CD->1988
+NP->CD
+PP->IN NP
+,->,
+NNP->Commonwealth
+NNP->Edison
+NP-SBJ->NNP NNP
+VBD->reported
+NNS->earnings
+NP->NNS
+IN->of
+$->$
+CD->737.5
+CD->million
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+,->,
+CC->or
+$->$
+CD->3.01
+-NONE-->*U*
+NP->$ CD -NONE-
+DT->a
+NN->share
+NP-ADV->DT NN
+NP->NP NP-ADV
+NP->NP , CC NP
+PP->IN NP
+NP->NP PP
+VP->VBD NP
+.->.
+S->PP , NP-SBJ VP .
+DT->A
+NNP->Commonwealth
+NNP->Edison
+NN->spokesman
+NP-SBJ->DT NNP NNP NN
+VBD->said
+IN->that
+-NONE-->*
+NP-SBJ->-NONE-
+VBG->tracking
+RP->down
+PRT->RP
+DT->the
+CD->two
+CD->million
+QP->CD CD
+NNS->customers
+NP->DT QP NNS
+WP$->whose
+NNS->addresses
+WHNP-20->WP$ NNS
+-NONE-->*T*-20
+NP-SBJ->-NONE-
+VBP->have
+VBN->changed
+IN->during
+DT->the
+JJ->past
+CD->3
+CD->1\/2
+QP->CD CD
+NNS->years
+NP->DT JJ QP NNS
+PP-TMP->IN NP
+VP->VBN PP-TMP
+VP->VBP VP
+S->NP-SBJ VP
+SBAR->WHNP-20 S
+NP->NP SBAR
+VP->VBG PRT NP
+S-NOM-SBJ->NP-SBJ VP
+MD->would
+VB->be
+``->``
+DT->an
+JJ->administrative
+NN->nightmare
+NP-PRD->DT JJ NN
+VP->VB `` NP-PRD
+VP->MD VP
+S->S-NOM-SBJ VP
+SBAR->IN S
+VP->VBD SBAR
+.->.
+''->''
+S->NP-SBJ VP . ''
+IN->In
+NNP->New
+NNP->York
+NNP->Stock
+NNP->Exchange
+JJ->composite
+NN->trading
+NP->NNP NNP NNP NNP JJ NN
+PP-LOC->IN NP
+NN->yesterday
+NP-TMP->NN
+,->,
+NNP->Commonwealth
+NNP->Edison
+NP-SBJ->NNP NNP
+VBD->closed
+IN->at
+$->$
+CD->38.375
+-NONE-->*U*
+NP->$ CD -NONE-
+PP-CLR->IN NP
+,->,
+RB->down
+CD->12.5
+NNS->cents
+NP->CD NNS
+ADVP->RB NP
+VP->VBD PP-CLR , ADVP
+.->.
+S->PP-LOC NP-TMP , NP-SBJ VP .
+DT->The
+$->$
+CD->2.5
+CD->billion
+QP->$ CD CD
+-NONE-->*U*
+ADJP->QP -NONE-
+NNP->Byron
+CD->1
+NN->plant
+NP->DT ADJP NNP CD NN
+IN->near
+NNP->Rockford
+NP->NNP
+,->,
+NNP->Ill.
+NP->NNP
+,->,
+NP->NP , NP ,
+PP-LOC->IN NP
+NP-SBJ-17->NP PP-LOC
+VBD->was
+VBN->completed
+-NONE-->*-17
+NP->-NONE-
+IN->in
+CD->1985
+NP->CD
+PP-TMP->IN NP
+VP->VBN NP PP-TMP
+VP->VBD VP
+.->.
+S->NP-SBJ-17 VP .
+IN->In
+DT->a
+VBN->disputed
+CD->1985
+NN->ruling
+NP->DT VBN CD NN
+PP-LOC->IN NP
+,->,
+DT->the
+NNP->Commerce
+NNP->Commission
+NP-SBJ->DT NNP NNP
+VBD->said
+-NONE-->0
+NNP->Commonwealth
+NNP->Edison
+NP-SBJ-1->NNP NNP
+MD->could
+VB->raise
+PRP$->its
+NN->electricity
+NNS->rates
+NP->PRP$ NN NNS
+IN->by
+$->$
+CD->49
+CD->million
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+PP-EXT->IN NP
+-NONE-->*-1
+NP-SBJ->-NONE-
+TO->to
+VB->pay
+IN->for
+DT->the
+NN->plant
+NP->DT NN
+PP-CLR->IN NP
+VP->VB PP-CLR
+VP->TO VP
+S-PRP->NP-SBJ VP
+VP->VB NP PP-EXT S-PRP
+VP->MD VP
+S->NP-SBJ-1 VP
+SBAR->-NONE- S
+VP->VBD SBAR
+.->.
+S->PP-LOC , NP-SBJ VP .
+CC->But
+NN->state
+NNS->courts
+NP-SBJ->NN NNS
+VBD->upheld
+DT->a
+NN->challenge
+NP->DT NN
+IN->by
+NN->consumer
+NNS->groups
+NP->NN NNS
+PP->IN NP
+TO->to
+DT->the
+NN->commission
+POS->'s
+NP->DT NN POS
+NN->rate
+NN->increase
+NP->NP NN NN
+PP->TO NP
+NP->NP PP PP
+VP->VBD NP
+CC->and
+VBD->found
+DT->the
+NNS->rates
+NP-SBJ->DT NNS
+JJ->illegal
+ADJP-PRD->JJ
+S->NP-SBJ ADJP-PRD
+VP->VBD S
+VP->VP CC VP
+.->.
+S->CC NP-SBJ VP .
+DT->The
+NNP->Illinois
+NNP->Supreme
+NNP->Court
+NP-SBJ->DT NNP NNP NNP
+VBD->ordered
+DT->the
+NN->commission
+NP-1->DT NN
+-NONE-->*-1
+NP-SBJ->-NONE-
+TO->to
+VB->audit
+NNP->Commonwealth
+NNP->Edison
+POS->'s
+NP->NNP NNP POS
+NN->construction
+NNS->expenses
+NP->NP NN NNS
+VP->VB NP
+CC->and
+VB->refund
+DT->any
+JJ->unreasonable
+NNS->expenses
+NP->DT JJ NNS
+VP->VB NP
+VP->VP CC VP
+VP->TO VP
+S->NP-SBJ VP
+VP->VBD NP-1 S
+.->.
+S->NP-SBJ VP .
+DT->The
+NN->utility
+NP-SBJ->DT NN
+VBZ->has
+VBN->been
+VBG->collecting
+IN->for
+DT->the
+NN->plant
+POS->'s
+NP->DT NN POS
+NN->construction
+NN->cost
+NP->NP NN NN
+PP-PRP->IN NP
+IN->from
+PRP$->its
+CD->3.1
+CD->million
+QP->CD CD
+NNS->customers
+NP->PRP$ QP NNS
+JJ->subject
+TO->to
+DT->a
+NN->refund
+NP->DT NN
+PP->TO NP
+ADJP->JJ PP
+NP->NP ADJP
+PP-DIR->IN NP
+IN->since
+CD->1986
+NP->CD
+PP-TMP->IN NP
+VP->VBG PP-PRP PP-DIR PP-TMP
+VP->VBN VP
+VP->VBZ VP
+.->.
+S->NP-SBJ VP .
+IN->In
+NNP->August
+NP->NNP
+PP-TMP->IN NP
+,->,
+DT->the
+NN->commission
+NP-SBJ->DT NN
+VBD->ruled
+IN->that
+IN->between
+$->$
+CD->190
+CD->million
+CC->and
+$->$
+CD->195
+CD->million
+QP->IN $ CD CD CC $ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+IN->of
+DT->the
+NN->plant
+POS->'s
+NP->DT NN POS
+NN->construction
+NN->cost
+NP->NP NN NN
+PP->IN NP
+NP-SBJ-1->NP PP
+VBD->was
+JJ->unreasonable
+ADJP-PRD->JJ
+VP->VBD ADJP-PRD
+CC->and
+MD->should
+VB->be
+VBN->refunded
+-NONE-->*-1
+NP->-NONE-
+,->,
+CC->plus
+NN->interest
+NP->NN
+PP->CC NP
+VP->VBN NP , PP
+VP->VB VP
+VP->MD VP
+VP->VP CC VP
+S->NP-SBJ-1 VP
+SBAR->IN S
+VP->VBD SBAR
+.->.
+S->PP-TMP , NP-SBJ VP .
+IN->In
+PRP$->his
+NN->ruling
+NP->PRP$ NN
+PP-LOC->IN NP
+,->,
+NNP->Judge
+NNP->Curry
+NP-SBJ->NNP NNP
+VBD->added
+DT->an
+JJ->additional
+$->$
+CD->55
+CD->million
+QP->$ CD CD
+-NONE-->*U*
+NP->DT JJ QP -NONE-
+TO->to
+DT->the
+NN->commission
+POS->'s
+NP->DT NN POS
+NNS->calculations
+NP->NP NNS
+PP-CLR->TO NP
+VP->VBD NP PP-CLR
+.->.
+S->PP-LOC , NP-SBJ VP .
+JJ->Last
+NN->month
+NP-TMP->JJ NN
+,->,
+NNP->Judge
+NNP->Curry
+NP-SBJ->NNP NNP
+VBD->set
+DT->the
+NN->interest
+NN->rate
+NP->DT NN NN
+IN->on
+DT->the
+NN->refund
+NP->DT NN
+PP->IN NP
+NP->NP PP
+IN->at
+CD->9
+NN->%
+NP->CD NN
+PP-CLR->IN NP
+VP->VBD NP PP-CLR
+.->.
+S->NP-TMP , NP-SBJ VP .
+NNP->Commonwealth
+NNP->Edison
+NP-SBJ->NNP NNP
+RB->now
+ADVP-TMP->RB
+VBZ->faces
+DT->an
+JJ->additional
+JJ->court-ordered
+NN->refund
+NP->DT JJ JJ NN
+IN->on
+PRP$->its
+JJ->summer\/winter
+NN->rate
+JJ->differential
+NNS->collections
+NP->PRP$ JJ NN JJ NNS
+PP->IN NP
+IN->that
+WHNP-1->IN
+DT->the
+NNP->Illinois
+NNP->Appellate
+NNP->Court
+NP-SBJ->DT NNP NNP NNP
+VBZ->has
+VBN->estimated
+-NONE-->*T*-1
+NP->-NONE-
+IN->at
+$->$
+CD->140
+CD->million
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+PP-CLR->IN NP
+VP->VBN NP PP-CLR
+VP->VBZ VP
+S->NP-SBJ VP
+SBAR->WHNP-1 S
+NP->NP PP SBAR
+VP->VBZ NP
+.->.
+S->NP-SBJ ADVP-TMP VP .
+CC->And
+NN->consumer
+NNS->groups
+NP-SBJ->NN NNS
+VBP->hope
+IN->that
+NNP->Judge
+NNP->Curry
+POS->'s
+NP->NNP NNP POS
+NNP->Byron
+CD->1
+NN->order
+NP-SBJ->NP NNP CD NN
+MD->may
+VB->set
+DT->a
+NN->precedent
+NP->DT NN
+IN->for
+DT->a
+JJ->second
+JJ->nuclear
+NN->rate
+NN->case
+NP->DT JJ JJ NN NN
+PP->IN NP
+VBG->involving
+NNP->Commonwealth
+NNP->Edison
+POS->'s
+NP->NNP NNP POS
+NNP->Braidwood
+CD->2
+NN->plant
+NP->NP NNP CD NN
+VP->VBG NP
+NP->NP PP VP
+VP->VB NP
+VP->MD VP
+S->NP-SBJ VP
+SBAR->IN S
+VP->VBP SBAR
+.->.
+S->CC NP-SBJ VP .
+NNP->Commonwealth
+NNP->Edison
+NP-SBJ->NNP NNP
+VBZ->is
+VBG->seeking
+IN->about
+$->$
+CD->245
+CD->million
+QP->IN $ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+IN->in
+NN->rate
+NNS->increases
+NP->NN NNS
+PP->IN NP
+-NONE-->0
+WHNP-1->-NONE-
+-NONE-->*T*-1
+NP-SBJ->-NONE-
+TO->to
+VB->pay
+IN->for
+NNP->Braidwood
+CD->2
+NP->NNP CD
+PP-CLR->IN NP
+VP->VB PP-CLR
+VP->TO VP
+S->NP-SBJ VP
+SBAR-PRP->WHNP-1 S
+NP->NP PP SBAR-PRP
+VP->VBG NP
+VP->VBZ VP
+.->.
+S->NP-SBJ VP .
+DT->The
+NN->commission
+NP-SBJ-1->DT NN
+VBZ->is
+VBN->expected
+-NONE-->*-1
+NP-SBJ->-NONE-
+TO->to
+VB->rule
+IN->on
+DT->the
+NNP->Braidwood
+CD->2
+NN->case
+NP->DT NNP CD NN
+PP-CLR->IN NP
+IN->by
+NN->year
+NN->end
+NP->NN NN
+PP-TMP->IN NP
+VP->VB PP-CLR PP-TMP
+VP->TO VP
+S->NP-SBJ VP
+VP->VBN S
+VP->VBZ VP
+.->.
+S->NP-SBJ-1 VP .
+JJ->Last
+NN->year
+NP-TMP->JJ NN
+NNP->Commonwealth
+NNP->Edison
+NP-SBJ-1->NNP NNP
+VBD->had
+-NONE-->*-1
+NP-SBJ->-NONE-
+TO->to
+VB->refund
+$->$
+CD->72.7
+CD->million
+QP->$ CD CD
+-NONE-->*U*
+NP->QP -NONE-
+IN->for
+JJ->poor
+NN->performance
+NP->JJ NN
+IN->of
+PRP$->its
+NNP->LaSalle
+NNP->I
+JJ->nuclear
+NN->plant
+NP->PRP$ NNP NNP JJ NN
+PP->IN NP
+NP->NP PP
+PP-PRP->IN NP
+VP->VB NP PP-PRP
+VP->TO VP
+S->NP-SBJ VP
+VP->VBD S
+.->.
+S->NP-TMP NP-SBJ-1 VP .
+
+
